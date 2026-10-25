@@ -20,5 +20,32 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "치의학대학원": {
+      "style": "stone",
+      "wall": "#c8c3b8",
+      "glass": "#5e8a84",
+      "frame": "#8a8c88"
+    },
+    "의과학관": {
+      "style": "brick",
+      "wall": "#9a5540",
+      "glass": "#3a4248",
+      "frame": "#d6d2c8"
+    },
+    "의생명연구원": {
+      "style": "ribbon",
+      "wall": "#d8d8d4",
+      "glass": "#4a5a66",
+      "frame": "#9a9c9c"
+    },
+    "의학도서관": {
+      "style": "stone",
+      "wall": "#c8c8c4",
+      "glass": "#3a4248",
+      "frame": "#9a9a96"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
